@@ -1,0 +1,12 @@
+{
+    "name": "killer/demo",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "authors": [
+        {
+            "name": "killer",
+            "email": "371481597@qq.com"
+        }
+    ]
+}
